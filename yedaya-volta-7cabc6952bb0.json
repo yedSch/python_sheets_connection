@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "yedaya-volta",
+  "private_key_id": "7cabc6952bb0552dd1130fcc6258dde10a7f3dae",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZvV7llGbo05zt\nRiP0ayifnJjrQ7IPtpIpqsOsQoo8JawsuckJLKIboxNKgMWB1Jx0p97qUsu4hin1\n4pZIOtXk5YtpZUdYsUViHB518fykRd6DucbCqJhbtF5elGSvmgZ6nOPN71EbyfoX\niGHCY7s9mLiOAvxeVN+3ZvC5w5NGpHWzCIBzz7HvRhpMjvCnAjQK79uOcFXjrbNq\nsARdNGNiPKQC1pfvAW29CUENUHummk/I3ahnpYi+wPUk17xr4FlG76tbs5eoU3ZD\naLqPAWFzJ3OoS6fTbLUxAfmoC5qh18jvACwVsMRE3ndDLof8ZiVD4rjv17f768y0\nVBXVgog3AgMBAAECggEAaTVl7ZNz2Csrx8Bc7iR7GAhwITlwB8SlQknXS1xJc/+V\n/nR0raCp4aW91AF9rZqAUKOug9Wmxw3Yp40pJVR8dqHtZ2s++p2JU3sXwtC+zNdP\nyaFR50vUdnckJBoavnizibpWHnL043MICyfkaKuM1Rn+juvlamUjRfiQ94mHF5nK\nbEG+UYVi7Udfzqhv4NAQiD9KO+a1pla668lAn1wrf3YPFb5ljmJr9S5gwvkWdkur\nBFgdUmWbwC8PikSeYtl//tatEYkHhK9oa7IK1peNtJBsOPzeLJtqY8B8cGpBcFaI\nqC+wh4Sm0X2xqmhBWAWi1Hw8/vQCWLFqUV2ImWA2QQKBgQDwijS4uvRTaYfN9vCx\nTSDGCjy6zu91XrlfMCZBjGIQaVxopB9dq4lgkfy3482CiPuU53H/FlmHr6THnEa1\n1A0QLB0GqR9XLo++fOr+iv4xjA7Lr3YVORX+OmUQhBAxwq8LivT1wZGezuGla3+v\nas5e0n0Ta29Mee/kmcUREvnN9wKBgQDnvAQTK5hVxA7yLK+D4BBAOzDTeitWTni3\n+/LM6XrwQytzk80WyqdtKvclM5obUjUBcqlDFoqFw4L+4XCAZhV26l5T7yZLH/o0\ncyrD9h7ba9vibhJFn/ThDHEA6snXnPQQF0bnlAWtn3CCFRuX428YrdWZ+rywEpz8\nPUYN8LeHwQKBgDE+iiabl7OP8k6XVJVnzeLda6tu/BUSTG8RY3Od8uGbQGDn4MgD\nez97A7r99y/XLXJBo9PuVmvx6JE5DDzjab062sJnU1Q84w7DcjSkbf/kxY6roEge\nBMOkXtZvwwT872s0iovZkh9qCUYdaOmXuyIsg5C7OPD2MceiN3cUZHHnAoGBAN1E\noJtxZ/6UuzSwSFLicoHyQrfbEmBRg2Eh+H+CfLnHWUj9mrmlfWJ2wQ/Lit2FjEk6\no7YEYvZAbedTeWmQj/RA6xq34lefS/gi83Wzn1kiTw2Qzm+ewWLVz1zx0xLGsiBf\nKXvb0eQrtnDvGK7aIm1tJuTlDqAM1crf8vFCpOvBAoGARntky8SEaBVXxUDmEZXn\nPwcaGAm8hz8LuyLXaxy+CvE9lZuSjv897LDDxbTiW9uM/N8rA4YXM+jHmq5F/1rB\nRvndjJhU92BsAcWMSfj+bnsVuZ+AlWb39zWcUxfv1KXwu6EBp1g2xcj8dlL9nONt\nYVpS+8lvrr3uDenzaaNZpOg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yedaya@yedaya-volta.iam.gserviceaccount.com",
+  "client_id": "117520159371478389928",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yedaya%40yedaya-volta.iam.gserviceaccount.com"
+}

@@ -1,0 +1,771 @@
+1613294334527	geckodriver	INFO	Listening on 127.0.0.1:61125
+1613294374312	geckodriver	INFO	Listening on 127.0.0.1:61147
+1613295291899	geckodriver	INFO	Listening on 127.0.0.1:53055
+1613295453320	geckodriver	INFO	Listening on 127.0.0.1:53088
+1613295456560	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilesaKXGO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613295462649	Marionette	INFO	Listening on port 53096
+1613295462917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613295462978	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613295609698	Marionette	INFO	Stopped listening on port 53096
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613295991589	geckodriver	INFO	Listening on 127.0.0.1:54488
+1613295994754	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofile6sj3H4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613296001293	Marionette	INFO	Listening on port 54496
+1613296001672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613296001720	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613296025912	Marionette	ERROR	[36] No reply from Marionette:Register
+1613296029991	Marionette	ERROR	[37] No reply from Marionette:Register
+1613296033763	Marionette	INFO	Stopped listening on port 54496
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613296100935	geckodriver	INFO	Listening on 127.0.0.1:54578
+1613296108519	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileMzru1Y"
+1613296111777	Marionette	INFO	Listening on port 57811
+1613296112197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613296112240	Marionette	ERROR	[16] No reply from Marionette:Register
+1613296138616	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613298938420	Marionette	INFO	Stopped listening on port 57811
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileH2GnE8"
+*** You are running in headless mode.
+1613296263578	Marionette	INFO	Listening on port 57965
+1613296263866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613296263902	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613296292144	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+11
+1613297409190	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileOj5TNR"
+*** You are running in headless mode.
+1613297414597	Marionette	INFO	Listening on port 63019
+1613297415170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613297415263	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613297443205	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+Exiting due to channel error.
+Listening on 127.0.0.1:63251
+1613297622327	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileGAND6L"
+*** You are running in headless mode.
+1613297626865	Marionette	INFO	Listening on port 63259
+1613297627332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613297627384	Marionette	ERROR	[16] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileYfvGnb"
+*** You are running in headless mode.
+1613297682090	Marionette	INFO	Listening on port 63321
+1613297682518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613297682567	Marionette	ERROR	[16] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofile4sw5ZU"
+*** You are running in headless mode.
+1613297844661	Marionette	INFO	Listening on port 63390
+1613297845203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613297845260	Marionette	ERROR	[16] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+82
+1613298067819	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilerQAbYu"
+*** You are running in headless mode.
+1613298071933	Marionette	INFO	Listening on port 63490
+1613298072324	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613298072367	Marionette	ERROR	[16] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilew6Za2M"
+*** You are running in headless mode.
+1613298255621	Marionette	INFO	Listening on port 63625
+1613298255749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613298255816	Marionette	ERROR	[16] No reply from Marionette:Register
+1613298285420	geckodriver	INFO	Listening on 127.0.0.1:59529
+1613298294420	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileXJU8rS"
+*** You are running in headless mode.
+1613298298457	Marionette	INFO	Listening on port 59539
+1613298298863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613298298903	Marionette	ERROR	[16] No reply from Marionette:Register
+1613298329502	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613298338505	Marionette	INFO	Stopped listening on port 59539
+[Child 32232, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1613298809919	geckodriver	INFO	Listening on 127.0.0.1:59839
+1613298818732	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileTZZKIu"
+*** You are running in headless mode.
+1613298822828	Marionette	INFO	Listening on port 59849
+1613298823190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613298823231	Marionette	ERROR	[16] No reply from Marionette:Register
+1613298849299	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofile4o8myn"
+1613298989388	Marionette	INFO	Listening on port 60024
+1613298989664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613298989724	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613299023941	Marionette	ERROR	[46] No reply from Marionette:Register
+1613299079465	Marionette	INFO	Stopped listening on port 60024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613299456789	geckodriver	INFO	Listening on 127.0.0.1:59309
+1613299463815	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileaGTyKA"
+1613299467667	Marionette	INFO	Listening on port 59317
+1613299468028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613299468066	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613299495844	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[GFX1-]: (gfxWindowsPlatform) Detected device reset: 2
+[GFX1-]: (gfxWindowsPlatform) scheduled device update.
+JavaScript error: https://js.zohocdn.com/projects/js/sn_f63ae_.js, line 14: TypeError: jQuery(...).offset() is null
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x887a0005
+[GFX1-]: GFX: RenderThread detected a device reset in PostUpdate
+[GFX1-]: Failed to make render context current during destroying.
+[GFX1-]: Failed to make render context current during destroying.
+[GFX1-]: Compositors might be mixed (5,3)
+JavaScript error: https://js.zohocdn.com/projects/js/sn_f63ae_.js, line 14: TypeError: jQuery(...).offset() is null
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1613313411570	Marionette	INFO	Stopped listening on port 59317
+1613326171447	geckodriver	INFO	Listening on 127.0.0.1:49405
+1613326174688	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileNOS8DX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613326182442	Marionette	INFO	Listening on port 49414
+1613326182576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613326182634	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613326252341	Marionette	INFO	Stopped listening on port 49414
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileg12s6i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613326257483	Marionette	INFO	Listening on port 49554
+1613326257844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613326257894	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too lat1613326338970	mozrunner::runner	INFO	Runn1613326339574	Marionette	INFO	Stopped listening on port 49554
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rust_mozprofilenf60rP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613326345831	Marionette	INFO	Listening on port 56485
+1613326346041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613326346099	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613326382825	Marionette	INFO	Stopped listening on port 56481613326383956	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileTc8pFo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613326390587	Marionette	INFO	Listening on port 56568
+1613326391066	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613326391153	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613326413651	Marionette	INFO	Stopped listening on port 56568
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613326491719	geckodriver	INFO	Listening on 127.0.0.1:56688
+1613326500606	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofile0ec4xc"
+1613326507006	Marionette	INFO	Listening on port 56706
+1613326507609	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613326507656	Marionette	ERROR	[16] No reply from Marionette:Register
+1613326559691	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0158,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015F,name=PContent::Msg_CommitWindowContextTransaction) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014B,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00C7,name=PContent::Msg_CloseAlert) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00C7,name=PContent::Msg_CloseAlert) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00C7,name=PContent::Msg_CloseAlert) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A00C7,name=PContent::Msg_CloseAlert) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015F,name=PContent::Msg_CommitWindowContextTransaction) Closed channel: cannot send/recv
+
+1613380721658	geckodriver	INFO	Listening on 127.0.0.1:55009
+1613380726694	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilebcjkSn"
+*** You are running in headless mode.
+1613380729138	Marionette	INFO	Listening on port 55018
+1613380729366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613380729383	Marionette	ERROR	[20] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613380761769	Marionette	INFO	Stopped listening on port 55018
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613380779247	geckodriver	INFO	Listening on 127.0.0.1:55140
+1613380784200	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilef3kF3k"
+*** You are running in headless mode.
+1613380785919	Marionette	INFO	Listening on port 55154
+1613380786232	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613380786245	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613380817528	Marionette	INFO	Stopped listening on port 55154
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613380835050	geckodriver	INFO	Listening on 127.0.0.1:55266
+1613380839999	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilehcchoh"
+*** You are running in headless mode.
+1613380841476	Marionette	INFO	Listening on port 55275
+1613380841528	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613380841550	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613380872797	Marionette	INFO	Stopped listening on port 55275
+1613460551465	geckodriver	INFO	Listening on 127.0.0.1:58303
+1613460559782	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileKP2uXe"
+*** You are running in headless mode.
+1613460564626	Marionette	INFO	Listening on port 58312
+1613460565060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613460565088	Marionette	ERROR	[20] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613460597487	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1613460607362	Marionette	INFO	Stopped listening on port 58312
+JavaScript error: https://js.zohostatic.com/projects/marketplace_apps/1.0/js/client_sdk.min.js, line 1: Error: Parentwindow reference not found.
+1613460628938	geckodriver	INFO	Listening on 127.0.0.1:58449
+1613460636974	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilep1JQWb"
+*** You are running in headless mode.
+1613460641076	Marionette	INFO	Listening on port 58461
+1613460641193	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613460641237	Marionette	ERROR	[24] No reply from Marionette:Register
+1613460673029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://js.zohostatic.com/bluepencil/v2_4/js/zbluepencil_web_min_all.js, line 1: uncaught exception: Unable to get window to which element belongs. Please contact BluePencil team
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613460683413	Marionette	INFO	Stopped listening on port 58461
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613460704361	geckodriver	INFO	Listening on 127.0.0.1:58640
+1613460711759	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileQsbPTN"
+*** You are running in headless mode.
+1613460715358	Marionette	INFO	Listening on port 58649
+1613460715471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613460715510	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613460741431	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1613460750853	Marionette	INFO	Stopped listening on port 58649
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1613460772012	geckodriver	INFO	Listening on 127.0.0.1:58790
+1613460779168	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofiledSBB9F"
+*** You are running in headless mode.
+1613460782442	Marionette	INFO	Listening on port 58799
+1613460782846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613460782883	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613460810095	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1613460819259	Marionette	INFO	Stopped listening on port 58799
+1613460840196	geckodriver	INFO	Listening on 127.0.0.1:58957
+1613460847928	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofile2IhNo0"
+*** You are running in headless mode.
+1613460851768	Marionette	INFO	Listening on port 58971
+1613460852147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613460852189	Marionette	ERROR	[24] No reply from Marionette:Register
+1613460879298	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://js.zohostatic.com/bluepencil/v2_4/js/zbluepencil_web_min_all.js, line 1: uncaught exception: Unable to get window to which element belongs. Please contact BluePencil team
+1613460888714	Marionette	INFO	Stopped listening on port 58971
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1613571986774	geckodriver	INFO	Listening on 127.0.0.1:49239
+1613571995031	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileJpCdvS"
+*** You are running in headless mode.
+1613572001118	Marionette	INFO	Listening on port 49248
+1613572001386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613572001429	Marionette	ERROR	[24] No reply from Marionette:Register
+1613572041403	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613572050994	Marionette	INFO	Stopped listening on port 49248
+1613572073858	geckodriver	INFO	Listening on 127.0.0.1:49408
+1613572082926	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileU1XLQh"
+*** You are running in headless mode.
+1613572087708	Marionette	INFO	Listening on port 49419
+1613572088183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613572088208	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613572126965	Marionette	INFO	Stopped listening on port 49419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0115,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A011A,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+1613572149767	geckodriver	INFO	Listening on 127.0.0.1:49590
+1613572158331	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilehLPRm9"
+*** You are running in headless mode.
+1613572162716	Marionette	INFO	Listening on port 49606
+1613572163161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613572163224	Marionette	ERROR	[24] No reply from Marionette:Register
+1613572209855	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://js.zohostatic.com/bluepencil/v2_4/js/zbluepencil_web_min_all.js, line 1: uncaught exception: Unable to get window to which element belongs. Please contact BluePencil team
+1613572220530	Marionette	INFO	Stopped listening on port 49606
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1613572243658	geckodriver	INFO	Listening on 127.0.0.1:49769
+1613572253514	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofile4pCErW"
+*** You are running in headless mode.
+1613572259650	Marionette	INFO	Listening on port 49784
+1613572259857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613572259910	Marionette	ERROR	[24] No reply from Marionette:Register
+1613572304063	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613572313848	Marionette	INFO	Stopped listening on port 49784
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613657214073	geckodriver	INFO	Listening on 127.0.0.1:56862
+1613657219996	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileLMGMbn"
+*** You are running in headless mode.
+1613657223432	Marionette	INFO	Listening on port 56875
+1613657223719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613657223747	Marionette	ERROR	[20] No reply from Marionette:Register
+JavaScript error: https://js.zohocdn.com/projects/js/tp_fcc5b_.js line 13 > Function, line 3: TypeError: ALLCFDETAIL[FIELDOBJ.PCFID].PICKLISTDETAILS[PICKVALUE] is undefined
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613657253880	Marionette	INFO	Stopped listening on port 56875
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613657272735	geckodriver	INFO	Listening on 127.0.0.1:56995
+1613657278044	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileFpWe9n"
+*** You are running in headless mode.
+1613657280307	Marionette	INFO	Listening on port 57004
+1613657280673	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613657280686	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript error: https://js.zohocdn.com/projects/js/tp_fcc5b_.js line 13 > Function, line 3: TypeError: ALLCFDETAIL[FIELDOBJ.PCFID].PICKLISTDETAILS[PICKVALUE] is undefined
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613657310847	Marionette	INFO	Stopped listening on port 57004
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613919912227	geckodriver	INFO	Listening on 127.0.0.1:50137
+1613919921035	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilevHfylq"
+*** You are running in headless mode.
+1613919925164	Marionette	INFO	Listening on port 50146
+1613919925264	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613919925296	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613919951088	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1613919960492	Marionette	INFO	Stopped listening on port 50146
+[Child 2568, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 2568, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1613919980928	geckodriver	INFO	Listening on 127.0.0.1:50276
+1613919988842	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilerU6zeq"
+*** You are running in headless mode.
+1613919992459	Marionette	INFO	Listening on port 50287
+1613919992545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613919992580	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613920017800	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1613920026984	Marionette	INFO	Stopped listening on port 50287
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1613920047083	geckodriver	INFO	Listening on 127.0.0.1:50428
+1613920054337	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileXhCfmB"
+*** You are running in headless mode.
+1613920058045	Marionette	INFO	Listening on port 50437
+1613920058517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613920058540	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613920083610	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1613920093012	Marionette	INFO	Stopped listening on port 50437
+[Child 30824, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1613920113265	geckodriver	INFO	Listening on 127.0.0.1:50573
+1613920120231	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilenZHiij"
+*** You are running in headless mode.
+1613920122961	Marionette	INFO	Listening on port 50581
+1613920123381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613920123406	Marionette	ERROR	[16] No reply from Marionette:Register
+1613920147869	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613920157399	Marionette	INFO	Stopped listening on port 50581
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1613920178137	geckodriver	INFO	Listening on 127.0.0.1:50714
+1613920185199	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilefVjOPr"
+*** You are running in headless mode.
+1613920188076	Marionette	INFO	Listening on port 50722
+1613920188418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613920188454	Marionette	ERROR	[16] No reply from Marionette:Register
+1613920213330	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613920222523	Marionette	INFO	Stopped listening on port 50722
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1613920242728	geckodriver	INFO	Listening on 127.0.0.1:50850
+1613920249648	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileZambJ8"
+*** You are running in headless mode.
+1613920252260	Marionette	INFO	Listening on port 50858
+1613920252309	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613920252329	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613920280584	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1613920290334	Marionette	INFO	Stopped listening on port 50858
+1613920309874	geckodriver	INFO	Listening on 127.0.0.1:50980
+1613920316612	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileLeM6Zl"
+*** You are running in headless mode.
+1613920318812	Marionette	INFO	Listening on port 50988
+1613920319271	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613920319292	Marionette	ERROR	[16] No reply from Marionette:Register
+1613920348882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613920358020	Marionette	INFO	Stopped listening on port 50988
+[Child 12696, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1613920378317	geckodriver	INFO	Listening on 127.0.0.1:51109
+1613920386174	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilevBFQHO"
+*** You are running in headless mode.
+1613920389163	Marionette	INFO	Listening on port 51119
+1613920389379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613920389416	Marionette	ERROR	[16] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1613920416443	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1613920425665	Marionette	INFO	Stopped listening on port 51119
+1614064074676	geckodriver	INFO	Listening on 127.0.0.1:62413
+1614064082738	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileszsMG7"
+*** You are running in headless mode.
+1614064086505	Marionette	INFO	Listening on port 62421
+1614064086920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614064086964	Marionette	ERROR	[20] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1614064124915	Marionette	INFO	Stopped listening on port 62421
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614064145927	geckodriver	INFO	Listening on 127.0.0.1:62573
+1614064154234	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilec0uhGq"
+*** You are running in headless mode.
+1614064158425	Marionette	INFO	Listening on port 62584
+1614064158561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614064158616	Marionette	ERROR	[24] No reply from Marionette:Register
+1614064185701	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1614064195067	Marionette	INFO	Stopped listening on port 62584
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614064215581	geckodriver	INFO	Listening on 127.0.0.1:62721
+1614064223104	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofile1WQiDJ"
+*** You are running in headless mode.
+1614064226330	Marionette	INFO	Listening on port 62731
+1614064226770	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614064226799	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1614064251744	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614064260817	Marionette	INFO	Stopped listening on port 62731
+[Child 12308, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+1614064281307	geckodriver	INFO	Listening on 127.0.0.1:62850
+1614064288968	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofile3eTx0e"
+*** You are running in headless mode.
+1614064291735	Marionette	INFO	Listening on port 62862
+1614064292139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614064292162	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1614064321804	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614064331311	Marionette	INFO	Stopped listening on port 62862
+1614064351386	geckodriver	INFO	Listening on 127.0.0.1:62999
+1614064358472	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofileb4hYQD"
+*** You are running in headless mode.
+1614064361455	Marionette	INFO	Listening on port 63007
+1614064361650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614064361709	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1614064387598	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614064396778	Marionette	INFO	Stopped listening on port 63007
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614064417727	geckodriver	INFO	Listening on 127.0.0.1:63152
+1614064425687	mozrunner::runner	INFO	Running command: "C:\\\\Program Files\\\\Mozilla Firefox\\\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\yedaya\\AppData\\Local\\Temp\\rust_mozprofilerEFnYX"
+*** You are running in headless mode.
+1614064428896	Marionette	INFO	Listening on port 63167
+1614064429337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614064429357	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript warning: https://static.zohocdn.com/chat/tpv3/officechat/js/jquery-1.10.1.min.33d85132f0154466fc017dd05111873d.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1614064464692	Marionette	INFO	Stopped listening on port 63167
