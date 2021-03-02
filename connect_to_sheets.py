@@ -1,4 +1,5 @@
 import close_task
+import close_task_new_version
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint
@@ -47,6 +48,7 @@ def updateSheets(action_result,index,row):
 for index, row in selectedData.iterrows():
     driver = close_task.initiateFFbrowser()
     # print(row)
+    task_identifer = row['Identifier']
     projectid = row['ProjectID']
     tasklistid = row['TaskListID']
     taskid = row['TaskID']
@@ -55,7 +57,9 @@ for index, row in selectedData.iterrows():
     print("This is row",row)
     # print(row)
     time.sleep(10)
-    closed = close_task.Crawl(driver,projectid,tasklistid,taskid,task_url)
+    # closed = close_task.Crawl(driver,projectid,tasklistid,taskid,task_url)
+    closed = close_task_new_version.Crawl(driver,projectid,tasklistid,taskid,task_identifer,task_url)
+
     # closed = 1
     updateSheets(closed,index,row)
     driver.quit()
