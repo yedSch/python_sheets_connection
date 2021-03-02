@@ -50,7 +50,7 @@ def Crawl(driver, projectid, tasklistid, taskid, task_identifier, given_url=None
     if task_identifier == 'TCC':
         find_text = 'תיאום התרחש'
         searchtext = "//span[contains(.,'תיאום התרחש')]"
-    elif task_identifier == 'Inspection':
+    elif task_identifier == 'Inspection' or task_identifier == 'Wiring':
         searchtext = "//span[contains(.,'פעילות הסתיימה')]"
         find_text = 'פעילות הסתיימה'
     try:
@@ -64,7 +64,7 @@ def Crawl(driver, projectid, tasklistid, taskid, task_identifier, given_url=None
     WebDriverWait(driver, 20)
     if task_identifier=='TCC':
         complete_button_xpath = "//*[@id='trans-bp-transpop']/div[2]/div[2]/div[2]/div[1]"
-    elif task_identifier == 'Inspection':
+    elif task_identifier == 'Inspection' or task_identifier == 'Wiring':
         complete_button_xpath = '//*[@id="button1"]'
 
     try:
