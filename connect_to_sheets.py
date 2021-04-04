@@ -1,4 +1,4 @@
-import close_task
+# import close_task
 import close_task_new_version
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
@@ -46,7 +46,7 @@ def updateSheets(action_result,index,row):
 
 #set url parameters:
 for index, row in selectedData.iterrows():
-    driver = close_task.initiateFFbrowser()
+    driver = close_task_new_version.initiateFFbrowser()
     # print(row)
     task_identifer = row['Identifier']
     projectid = row['ProjectID']
